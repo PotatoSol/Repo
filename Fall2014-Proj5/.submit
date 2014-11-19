@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project P5: P5
+
+courseName=CMSC131
+semester=201408
+projectNumber=P5
+courseKey=340ca86df4902047
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2014
+submitURL=https://submit.cs.umd.edu:443/fall2014/eclipse/SubmitProjectViaEclipse
